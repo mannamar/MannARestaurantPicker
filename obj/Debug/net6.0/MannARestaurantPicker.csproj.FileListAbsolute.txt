@@ -1,0 +1,15 @@
+/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannARestaurantPicker/bin/Debug/net6.0/MannARestaurantPicker
+/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannARestaurantPicker/bin/Debug/net6.0/MannARestaurantPicker.deps.json
+/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannARestaurantPicker/bin/Debug/net6.0/MannARestaurantPicker.runtimeconfig.json
+/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannARestaurantPicker/bin/Debug/net6.0/MannARestaurantPicker.dll
+/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannARestaurantPicker/bin/Debug/net6.0/MannARestaurantPicker.pdb
+/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannARestaurantPicker/obj/Debug/net6.0/MannARestaurantPicker.csproj.AssemblyReference.cache
+/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannARestaurantPicker/obj/Debug/net6.0/MannARestaurantPicker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannARestaurantPicker/obj/Debug/net6.0/MannARestaurantPicker.AssemblyInfoInputs.cache
+/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannARestaurantPicker/obj/Debug/net6.0/MannARestaurantPicker.AssemblyInfo.cs
+/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannARestaurantPicker/obj/Debug/net6.0/MannARestaurantPicker.csproj.CoreCompileInputs.cache
+/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannARestaurantPicker/obj/Debug/net6.0/MannARestaurantPicker.dll
+/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannARestaurantPicker/obj/Debug/net6.0/refint/MannARestaurantPicker.dll
+/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannARestaurantPicker/obj/Debug/net6.0/MannARestaurantPicker.pdb
+/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannARestaurantPicker/obj/Debug/net6.0/MannARestaurantPicker.genruntimeconfig.cache
+/Users/amardeepmann/Desktop/Codestack/level1/assignments/MannARestaurantPicker/obj/Debug/net6.0/ref/MannARestaurantPicker.dll
