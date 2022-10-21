@@ -2,6 +2,8 @@
 // 10-20-22
 // Mini Challenge #10 - Restaurant Picker
 // Randomly pick a restaurant for an indecisive user
+// Peer reviewed by Mark A Ramirez: everything works good but i would add qutation marks to the suggested place
+// Github link: https://github.com/peedrama/MannARestaurantPicker
 
 string[] mexPlaces = {"Taco Bell", "Chipotle", "Tacos Chapala", "Flakkos Tacos", "Jimboy's Tacos", "Tepa Taqueria", "El Senor Frogs", "Tacos La Palmita", "Taqueria El Grullense", "Casa Flores"};
 string[] fastPlaces = {"McDonalds", "Taco Bell", "Burger King", "Carl's Jr", "Wendy's", "Papa John's", "Pizza Hut", "Jack in the Box", "In-n-Out", "Raising Cane's"};
